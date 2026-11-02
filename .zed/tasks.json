@@ -1,0 +1,17 @@
+[
+  {
+    "label": "Typecheck Project",
+    "command": "npm run typecheck",
+    "use_new_terminal": false
+  },
+  {
+    "label": "Run Unit Tests",
+    "command": "npm run test",
+    "use_new_terminal": false
+  },
+  {
+    "label": "Build Next.js App",
+    "command": "npm run build",
+    "use_new_terminal": false
+  }
+]
